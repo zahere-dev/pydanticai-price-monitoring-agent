@@ -1,0 +1,8 @@
+pydantic-ai
+python-dotenv
+openai
+requests
+markdownify
+sendgrid
+sqlalchemy
+pymysql
